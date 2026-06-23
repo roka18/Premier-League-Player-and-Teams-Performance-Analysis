@@ -1,2 +1,3 @@
-# Financial-Transaction-Analysis-Fraud-Detection
- This project aims to make analysis for transaction patterns, identifying abnormal behaviour &amp; building a dashboard for monitring operations
+# Premier-League-Player-and-Teams-Performance-Analysis
+
+ This project aims to make analysis for Player and team peformance, identifying abnormal behaviour &amp; building a dashboard and clear insights
